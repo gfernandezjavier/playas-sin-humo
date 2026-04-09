@@ -24,7 +24,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'Caló des Moro / Cala del Moro',
+            title: 'IBIZA - Caló des Moro / Cala del Moro',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/View_of_the_bay_at_Calo_des_Moro%2C_Mallorca_%28Spain%29_%2823899506181%29.jpg/330px-View_of_the_bay_at_Calo_des_Moro%2C_Mallorca_%28Spain%29_%2823899506181%29.jpg',
             description: 'Playa que está situada junto a la localidad española de Cala Llombards, municipio de Santañí, Mallorca.',
             location: {
@@ -54,7 +54,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Platges de Comte / Playas del Conde',
+            title: 'IBIZA - Platges de Comte / Playas del Conde',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cala_Conta_17_May_2011.JPG/330px-Cala_Conta_17_May_2011.JPG',
             description: 'Constituyen un conglomerado de pequeñas calas ubicadas en la costa occidental de la isla de Ibiza. Se extienden a lo largo de 800 metros con una anchura variable entre 15 y 30 metros.',
             location: {
@@ -79,7 +79,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Cala Sant Vicenç / Cala San Vicente',
+            title: 'IBIZA - Cala Sant Vicenç / Cala San Vicente',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cala_de_San_Vicent%2C_Ibiza.JPG/330px-Cala_de_San_Vicent%2C_Ibiza.JPG',
             description: 'Situada en San Juan Bautista, en la parte norte de la isla de Ibiza. Es una playa urbanizada que acoge gran cantidad del turismo que frecuenta el norte de la isla.',
             location: {
@@ -98,7 +98,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Cala dHort / Cala del Huerto',
+            title: 'IBIZA - Cala dHort / Cala del Huerto',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ibiza_rock_volcano_%28747230830%29.jpg/250px-Ibiza_rock_volcano_%28747230830%29.jpg',
             description: 'Playa en la costa occidental de la isla. Se encuentra en el municipio de Sant Josep de sa Talaia y está a 21,4 km al oeste de la ciudad de Ibiza.',
             location: {
@@ -123,7 +123,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Platja des Cavallet / Playa del Caballo',
+            title: 'IBIZA - Platja des Cavallet / Playa del Caballo',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Es_Cavallet-Ibiza-Beach-2019.jpg/330px-Es_Cavallet-Ibiza-Beach-2019.jpg',
             description: 'Situada en el municipio de San José. Es reconocida por ser una de las playas más famosas de la isla, destacando por su carácter natural y su popularidad dentro del colectivo gay.',
             location: {
@@ -142,7 +142,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Platja des Bol Nou / Playa del Bol Nuevo',
+            title: 'IBIZA - Platja des Bol Nou / Playa del Bol Nuevo',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Platja_bot.jpg/330px-Platja_bot.jpg',
             description: 'Se encuentra concretamente en el Norte del municipio de Ciutadella de Menorca. Se caracteriza por tener forma rectangular ubicada dentro de la reserva marina. Es una playa ubicada en el noreste de Cala Morell.',
             location: {
@@ -167,7 +167,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Platja des Port de Sant Miquel / Playa del Puerto de San Miguel',
+            title: 'IBIZA - Platja des Port de Sant Miquel / Playa del Puerto de San Miguel',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ibiza_Sant_Joan_bay_asv2023-04_img2.jpg/250px-Ibiza_Sant_Joan_bay_asv2023-04_img2.jpg',
             description: 'Playa de arena blanca en la costa noroeste de Ibiza.  Este pequeño asentamiento fue antiguamente el puerto pesquero del cercano pueblo de Sant Miquel de Balansat.',
             location: {
@@ -186,7 +186,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Cala des Degollador / Cala del Degolladero',
+            title: 'MENORCA - Cala des Degollador / Cala del Degolladero',
             image: 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Calanque_de_Sormiou_5.jpg',
             description: 'También conocida como Sa Platja Gran. Forma parte del litoral urbano de Ciutadella. Este entrante de mar se caracteriza por ser muy alargado (se adentra en tierra firme medio kilómetro) y estrecho, tiene unas dimensiones pequeñas, el agua es tranquila y sus bañistas locales suelen ser familias y turistas.',
             location: {
@@ -211,7 +211,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Punta Prima / Punta Primera',
+            title: 'MENORCA - Punta Prima / Punta Primera',
             image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Playa_de_punta_prima.jpg',
             description: 'Playa situada en el término de Sant Lluís, al sur de la Isla de Menorca. Durante la dominación ínglesa fue bautizada con el nombre de Sandy Bay ( bahía arenosa), por ser esta una playa de fina y abundante arena blanca que penetra en el mar en forma de suave pendiente.',
             location: {
@@ -230,7 +230,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Cala dAlcalfar / Cala de Alcaufar',
+            title: 'MENORCA- Cala dAlcalfar / Cala de Alcaufar',
             image: 'https://www.menorca.org/static/bloques/textos/fotos/829.g.jpg?1506066370',
             description: 'Esta cala se formó a partir de un entrante alargado o mas bien conocido como una manga de mar, y su entrada esta protegida por SIllot des Torn aunque tiene una exposición al oleaje y vientos del Sureste.',
             location: {
@@ -255,7 +255,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Platja de Binibéquer Nou / Playa de Binibéquer Nuevo',
+            title: 'MENORCA - Platja de Binibéquer Nou / Playa de Binibéquer Nuevo',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Binibeca01.jpg/250px-Binibeca01.jpg',
             description: 'Situada en el término municipal de San Luis, dista 5 km de San Luis, por 8 km de la capital insular, Mahón. Mide unos 200 m de longitud, tiene arena blanca y está rodeada de un bosque de pinos.',
             location: {
@@ -274,7 +274,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Cala de Binissafúller / Cala de Binisafúller',
+            title: 'MENORCA - Cala de Binissafúller / Cala de Binisafúller',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binissafuller.jpg/330px-Binissafuller.jpg',
             description: 'Situada al sur del municipio de Sant Lluís, en la costa meridional de Menorca. Se encuentra entre el Cap den Font y Binissafúller Roters y un poco más al este se encuentra el famoso pueblo de pescadores.',
             location: {
@@ -291,9 +291,9 @@ var config = {
         },
         {
             id: 'fourth-chapter',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
-            title: 'Es Pujols / Los Montículos',
+            title: 'FORMENTERA - Es Pujols / Los Montículos',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Platja_des_Fonoll_Mar%C3%AD.JPG/330px-Platja_des_Fonoll_Mar%C3%AD.JPG',
             description: 'Mide 690 metros de longitud y 25 metros de anchura. Es una playa semiurbana y la más concurrida de la isla. Es de arena blanca y finas aguas tranquilas y transparentes.',
             location: {
